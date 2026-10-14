@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+table{
+        
+            border:1px solid black;    
+       }
+
+        td,tr,th{
+            border: 1px solid black;
+            text-align: center;
+            
+        }
+        #color{
+            background-color: black;
+            color: white;
+        }
